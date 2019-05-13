@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f71982ae"
+    tools:context=".SplashActivity">
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="8dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="30dp"
+        android:background="#05F195" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:id="@+id/logo"
+        android:layout_below="@id/view"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/hometwo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_centerHorizontal="true"
+        android:text="Mtaa"
+        android:textColor="#07C1F0"
+        android:textSize="40sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="bottom"
+        android:text="@string/trusted_property"
+        android:textColor="#C9CFCD"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

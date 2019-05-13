@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "326805347265",
+    "firebase_url": "https://mtaa2-b08ad.firebaseio.com",
+    "project_id": "mtaa2-b08ad",
+    "storage_bucket": "mtaa2-b08ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326805347265:android:a132ecf8fcfd5dca",
+        "android_client_info": {
+          "package_name": "com.example.vick.mtaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326805347265-fjlbuiq4bchvt3hjjs1p7d8br6rf4alo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYfAuWRaNTHMAuqGYCwO3yZZGQ_XxGZns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326805347265-fjlbuiq4bchvt3hjjs1p7d8br6rf4alo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
