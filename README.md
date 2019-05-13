@@ -1,6 +1,3 @@
-## **Mtaa**
-Mtaa is a real estate app designed and coded with ❤ by _group 14 members_.
-
 ## What does Mtaa do?
   It bridges the _gap between_ real estate and _property owners_ and _potential customers_.
 
